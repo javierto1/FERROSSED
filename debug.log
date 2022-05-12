@@ -1,0 +1,2 @@
+[0312/212851.355:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: Se está cerrando la canalización. (0xE8)
+[0313/094049.929:ERROR:exception_handler_server.cc(524)] ConnectNamedPipe: Se está cerrando la canalización. (0xE8)
